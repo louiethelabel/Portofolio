@@ -3,7 +3,7 @@
   <head>
     <!-- Document metadata -->
     <meta charset="UTF-8">
-    <title>My Website</title>
+    <title>Luwam from Thinkful!</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
@@ -41,8 +41,8 @@
       </section>
       <article>
         <!-- Article section -->
-        <h3>Article Title</h3>
-        <p>This is the content of the article.</p>
+        <h3>THANK YOU FOR YOUR TIME!</h3>
+        <p>If you are looking for a new Developer please reach out!</p>
       </article>
     </main>
     <footer>
