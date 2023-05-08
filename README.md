@@ -3,6 +3,7 @@
   <head>
     <!-- Document metadata -->
     <meta charset="UTF-8">
+    <title>My Website</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
@@ -17,7 +18,7 @@
         <!-- About Me section -->
         <h2>About Me</h2>
         <p>As a developer, I am passionate about creating clean, functional, and user-friendly websites. I enjoy working with others and collaborating on projects that help bring ideas to life. When I'm not coding, I enjoy writing and exploring the great outdoors.</p>
-        <img src="Images/myPicture.png" alt="My Image" width="300" height="200">
+        <img src="images/myPicture.png" alt="My Image" width="300" height="200">
       </section>
       <section>
         <!-- Contact section -->
@@ -38,6 +39,15 @@
         </ol>
         <hr>
       </section>
+      <article>
+        <!-- Article section -->
+        <h3>Article Title</h3>
+        <p>This is the content of the article.</p>
+      </article>
     </main>
+    <footer>
+      <!-- Footer section -->
+      <p>&copy; 2023 Luwam Gebrehlasse. All rights reserved.</p>
+    </footer>
   </body>
 </html>
