@@ -3,7 +3,7 @@
   <head>
     <!-- Document metadata -->
     <meta charset="UTF-8">
-    <title>Luwam from Thinkful!</title>
+    <title> Luwam from Thinkful! </title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
