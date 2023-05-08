@@ -18,7 +18,7 @@
         <!-- About Me section -->
         <h2>About Me</h2>
         <p>As a developer, I am passionate about creating clean, functional, and user-friendly websites. I enjoy working with others and collaborating on projects that help bring ideas to life. When I'm not coding, I enjoy writing and exploring the great outdoors.</p>
-        <img src="images/myPicture.png" alt="My Image" width="300" height="200">
+        <img src="Images/myPicture.png" alt="My Image" width="300" height="200">
       </section>
       <section>
         <!-- Contact section -->
