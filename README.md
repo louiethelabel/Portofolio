@@ -4,9 +4,9 @@
     <!-- Document metadata -->
     <meta charset="UTF-8">
     <link rel="stylesheet" href="style.css">
+    <title> Luwam from Thinkful! </title>
   </head>
   <body>
-     <title> Luwam from Thinkful! </title>
     <header>
       <!-- Intro section -->
       <h1>Luwam Gebrehlasse</h1>
