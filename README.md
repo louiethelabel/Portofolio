@@ -6,9 +6,9 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
+     <title> Luwam from Thinkful! </title>
     <header>
       <!-- Intro section -->
-      <title> Luwam from Thinkful! </title>
       <h1>Luwam Gebrehlasse</h1>
       <p>Software Developer</p>
       <p>Located in Atlanta, GA</p>
