@@ -3,12 +3,12 @@
   <head>
     <!-- Document metadata -->
     <meta charset="UTF-8">
-    <title> Luwam from Thinkful! </title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <header>
       <!-- Intro section -->
+      <title> Luwam from Thinkful! </title>
       <h1>Luwam Gebrehlasse</h1>
       <p>Software Developer</p>
       <p>Located in Atlanta, GA</p>
